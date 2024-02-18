@@ -1,6 +1,8 @@
 # DVR_Sploit
 Simple python3 script to automate CVE-2018-9995
 
+![dvrsploit](https://github.com/X3RX3SSec/DVR_Sploit/assets/141476851/7668e9ee-2881-4619-8903-4350a88334c0)
+
 Requirements: requests (pip install requests)
 
 Usage:
