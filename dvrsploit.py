@@ -41,5 +41,5 @@ if __name__ == "__main__":
 
         with open("dvr_output.txt", "a") as file:
             file.write(device_list)
-            file.write("\n\n")  # Add two empty lines after writing the device list
+            file.write("\n\n")
         print("Device list appended to dvr_output.txt")
