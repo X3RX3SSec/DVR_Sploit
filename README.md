@@ -12,7 +12,6 @@ Usage:
     _  /_/ /__ |/ / _  _, _/     ____/ /__  /_/ /  / / /_/ /  / / /_  
     /_____/ _____/  /_/ |_|      /____/ _  .___//_/  \____//_/  \__/  
                                         /_/          By @mindfuckerrrr
-
 Enter DVR host: 81.215.xxx.xxx
 Enter DVR port: 88
 Device list:
