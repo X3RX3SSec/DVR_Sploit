@@ -3,14 +3,33 @@ Simple python3 script to automate CVE-2018-9995
 
 ![dvrsploit](https://github.com/X3RX3SSec/DVR_Sploit/assets/141476851/7668e9ee-2881-4619-8903-4350a88334c0)
 
-Requirements: requests (pip install requests)
+Requirements: pip install -r requirements.txt
 
-Usage:
-root@fuckmachine:~# python3 dvrsploit.py
+##USAGE
 
-Enter DVR host: 192.168.69.69
+```bash
 
-Enter DVR port: 88
+
+usage: dvrsploit.py [-h] [-f filename.txt] [-t site.com] [-p 8080]
+
+options:
+  -h, --help            show this help message and exit
+  -f filename.txt, --file filename.txt
+                        domains to check
+  -t site.com, --target site.com
+                        domain to check
+  -p 80, --port 80  port number to use
+
+# Single Target
+
+python3 dvrsploit.py -t IP -p 80
+
+# A list of domains
+
+python3 dvrsploit.py -f ips.txt -p 80
+python
+
+```
 
 Device list:
 
