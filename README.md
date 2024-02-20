@@ -27,7 +27,6 @@ python3 dvrsploit.py -t IP -p 80
 # A list of domains
 
 python3 dvrsploit.py -f ips.txt -p 80
-python
 
 ```
 
